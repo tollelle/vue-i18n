@@ -1,0 +1,93 @@
+{
+    "0": {
+        "name" : "Angular",
+        "image" : "https://angular.io/assets/images/logos/angular/shield-large.svg",
+        "url" : "https://angular.io/docs",
+        "bgcolor" : "red"
+    }, 
+    "1": {
+        "name" : "React",
+        "image" : "https://cdn.worldvectorlogo.com/logos/react.svg",
+        "url" : "https://reactjs.org/",
+        "bgcolor" : "blue"       
+    }, 
+    "2": {
+        "name" : "Vue",
+        "image" : "https://vuejs.org/images/logo.png",
+        "url" : "https://vuejs.org/",
+        "bgcolor" : "green"
+    }, 
+    "3": {
+        "name" : "ember",
+        "image" : "https://s3-us-west-2.amazonaws.com/s.cdpn.io/45544/icon-tomster.png",
+        "url" : "https://emberjs.com/",
+        "bgcolor" : "#e04e39"
+    }, 
+    "4": {
+        "name" : "polymer",
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/6/69/Polymer_Project_logo.png",
+        "url" : "https://www.polymer-project.org/",
+        "bgcolor" : "#fff"
+    }, 
+    "5": {
+        "name" : "preactjs",
+        "image" : "https://cdn.worldvectorlogo.com/logos/react.svg",
+        "url" : "https://preactjs.com/",
+        "bgcolor" : " #673ab8"
+    }, 
+    "6": {
+        "name" : "markojs",
+        "image" : "https://markojs.com/logo-be720035.png",
+        "url" : "https://markojs.com/",
+        "bgcolor" : " #09d"
+    }, 
+    "7": {
+        "name" : "angularjs",
+        "image" : "https://angularjs.org/img/angularjs-for-header-only.svg",
+        "url" : "https://angularjs.org/",
+        "bgcolor" : "green"
+    }, 
+    "8": {
+        "name" : "backbonejs",
+        "image" : "https://s3.amazonaws.com/urgeio-versus/backbone-js/front/front-1382439123416.flat.jpg",
+        "url" : "https://backbonejs.org/",
+        "bgcolor" : "#fff"
+    }, 
+    "9": {
+        "name" : "infernojs",
+        "image" : "https://user-images.githubusercontent.com/2021355/36063342-626d7ea8-0e84-11e8-84e1-f22bb3b8c4d5.png",
+        "url" : "https://infernojs.org/",
+        "bgcolor" : "#fff"
+    },    
+    "10": {
+        "name" : "mithril",
+        "image" : "https://mithril.js.org/logo.svg",
+        "url" : "https://mithril.js.org/",
+        "bgcolor" : "#fff"
+    }, 
+    "11": {
+        "name" : "aurelia",
+        "image" : "https://aurelia.io/styles/images/aurelia-icon.svg",
+        "url" : "https://aurelia.io/",
+        "bgcolor" : "#ed2b88"
+    }, 
+    "12": {
+        "name" : "svelte",
+        "image" : "",
+        "url" : "https://svelte.dev/",
+        "bgcolor" : "#fff"
+    }, 
+    "13": {
+        "name" : "bobril",
+        "image" : "https://raw.githubusercontent.com/Bobris/Bobril/master/logo.png",
+        "url" : "https://bobril.com/",
+        "bgcolor" : "#5a5f70"
+    }, 
+    "14": {
+        "name" : "hybridsjs",
+        "image" : "https://github.com/hybridsjs/hybrids/raw/master/docs/assets/hybrids-logo.svg?sanitize=true",
+        "url" : "https://github.com/hybridsjs/hybrids",
+        "bgcolor" : "#fff"
+    }
+}
+

@@ -1,2 +1,2 @@
-# vue-i18n
-Created with CodeSandbox
+# vue-sample
+Curso VueJS
